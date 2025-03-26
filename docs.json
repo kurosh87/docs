@@ -1,11 +1,11 @@
 {
   "$schema": "https://mintlify.com/docs.json",
   "theme": "mint",
-  "name": "Radium Deploy",
+  "name": "Mint Starter Kit",
   "colors": {
-    "primary": "#4F46E5",
-    "light": "#818CF8",
-    "dark": "#3730A3"
+    "primary": "#16A34A",
+    "light": "#07C983",
+    "dark": "#15803D"
   },
   "favicon": "/favicon.svg",
   "navigation": {
@@ -59,18 +59,18 @@
       "anchors": [
         {
           "anchor": "Documentation",
-          "href": "https://radium.mintlify.app",
+          "href": "https://mintlify.com/docs",
           "icon": "book-open-cover"
         },
         {
-          "anchor": "GitHub",
-          "href": "https://github.com/radiumdeploy",
-          "icon": "github"
+          "anchor": "Community",
+          "href": "https://mintlify.com/community",
+          "icon": "slack"
         },
         {
-          "anchor": "Dashboard",
-          "href": "https://app.radiumdeploy.com",
-          "icon": "rocket"
+          "anchor": "Blog",
+          "href": "https://mintlify.com/blog",
+          "icon": "newspaper"
         }
       ]
     }
@@ -83,20 +83,20 @@
     "links": [
       {
         "label": "Support",
-        "href": "mailto:support@radiumdeploy.com"
+        "href": "mailto:hi@mintlify.com"
       }
     ],
     "primary": {
       "type": "button",
-      "label": "Get Free Credits",
-      "href": "https://app.radiumdeploy.com/dashboard/credits"
+      "label": "Dashboard",
+      "href": "https://dashboard.mintlify.com"
     }
   },
   "footer": {
     "socials": {
-      "twitter": "https://twitter.com/radiumdeploy",
-      "github": "https://github.com/radiumdeploy",
-      "linkedin": "https://linkedin.com/company/radiumdeploy"
+      "x": "https://x.com/mintlify",
+      "github": "https://github.com/mintlify",
+      "linkedin": "https://linkedin.com/company/mintlify"
     }
   }
 }
